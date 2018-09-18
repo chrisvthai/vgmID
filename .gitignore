@@ -1,5 +1,11 @@
 /__pycache__
-/songs/*
+/songs/Adventure/*.wav
+/songs/Casual/*.wav
+/songs/Fighting/*.wav
+/songs/Horror/*.wav
+/songs/RPG/*.wav
+/songs/Shooter/*.wav
+/songs/Strategy/*.wav
 *.wav
 *.mp3
 /vgm-id-model
