@@ -1,5 +1,5 @@
 /__pycache__
-/songs
+/songs/*
 *.wav
 *.mp3
 /vgm-id-model
